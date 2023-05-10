@@ -42,4 +42,5 @@ Entre em contato no email: gustavobrianti13@gmail.com
   <img align="center" alt="ogustavobrianti-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="ogustavobrianti-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="ogustavobrianti-JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="ogustavobrianti-JAVASCRIPT" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div><br><br>
