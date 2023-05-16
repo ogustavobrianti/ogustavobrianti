@@ -8,12 +8,12 @@ Entre em contato no email: gustavobrianti13@gmail.com
 
 
 <div>
-  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=ogustavobrianti&show_icons=true&theme=tokyonight"/>
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=ogustavobrianti&show_icons=true&theme=dracula"/>
 <br>
   <br>
   
   <br>
-  <img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavobrianti&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavobrianti&layout=compact&langs_count=16&theme=dracula"/>
   
 </div>
 <br>
