@@ -7,32 +7,16 @@ Atualmente estudando PHP, C, HTML, CSS e JAVA☕
 Entre em contato no email: gustavobrianti13@gmail.com
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ogustavobrianti&show_icons=true&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ogustavobrianti&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogustavobrianti&show_icons=true" />
-</picture>
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavobrianti&layout=compact&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavobrianti&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavobrianti&layout=compact" />
-</picture>
-
-
+<div>
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=ogustavobrianti&show_icons=true&theme=tokyonight"/>
+<br>
+  <br>
+  
+  <br>
+  <img  height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavobrianti&layout=compact&langs_count=16&theme=tokyonight"/>
+  
+</div>
+<br>
 
 
 <div style="display: inline_block"><br>
