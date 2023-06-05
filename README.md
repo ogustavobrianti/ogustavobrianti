@@ -7,7 +7,7 @@ Atualmente estudando PHP, C, HTML, CSS e JAVA☕
 
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%232C86C6.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gustavobrianti/)
-  [![Gmail](https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/gustavobrianti13@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](https://www.gmail.com/gustavobrianti13@gmail.com)
 
 
 
