@@ -32,6 +32,7 @@ Atualmente estudando PHP, C, HTML, CSS e JAVA☕
   <img align="center" alt="ogustavobrianti-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ogustavobrianti-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ogustavobrianti-JAVASCRIPT" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+   <img align="center" alt="ogustavobrianti-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div><br><br>
 
 ![snake gif](https://github.com/ogustavobrianti/ogustavobrianti/blob/output/github-contribution-grid-snake.svg)
